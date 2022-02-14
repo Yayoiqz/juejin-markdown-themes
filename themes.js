@@ -216,6 +216,12 @@ const themes = {
     ref: '38645c3',
     highlight: 'github',
   },
+  'yayoi-sakura': {
+    owner: 'Yayoiqz',
+    repo: 'juejin-markdown-theme-yayoi-sakura',
+    path: 'yayoi-sakura.scss',
+    ref: 'afa7f6c',
+  },
 };
 
 export default themes;
